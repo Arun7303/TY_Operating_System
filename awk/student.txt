@@ -1,0 +1,4 @@
+ROll_no Name sub1 sub2 sub3 sub4 sub5
+1 A 50 60 70 50 60
+2 B 70 80 90 50 70
+3 C 50 60 50 70 60

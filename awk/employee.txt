@@ -1,0 +1,5 @@
+Emp_No:Emp_Name:Basic_Salary
+1:John:20000
+2:Alice:25000
+3:Bob:30000
+
